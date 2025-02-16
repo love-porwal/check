@@ -12,3 +12,12 @@ if(login_email==enter_email && login_pass==enter_pass){
 } else{
     console.log("login failed")
 }
+
+const num = 5
+
+if(num%2==0){
+    console.log("even");
+
+}else {
+    console.log("odd")
+}
